@@ -1,0 +1,29 @@
+body{
+    font-family: "Work Sans", sans-serif;
+    background-color: antiquewhite;
+}
+h1, h2{
+    text-align: center;
+}
+h2{
+    color: darksalmon;
+}
+table{
+    border: 3px solid lightsalmon;
+    width: 600px;
+    margin: 20px auto;
+}
+td{
+    border-top: 1px solid lightsalmon;
+    padding: 5px;
+    
+}
+th{
+    background-color: darksalmon;
+    color: white;
+}
+  
+.tag{
+    font-family: "IBM Plex Mono", monospace;
+    background: khaki;
+}
